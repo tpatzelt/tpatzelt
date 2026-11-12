@@ -1,17 +1,17 @@
 ```console
-tim@lindus:~$ whoami
+tim@jarvis:~$ whoami
 tim patzelt · senior ai engineer · berlin
 
-tim@lindus:~$ cat ~/.plan
+tim@jarvis:~$ cat ~/.plan
 - make models run where the data lives, not where the API is
 - measure first: evals > vibes > leaderboards
 - reach for the small model when it is enough
 - give agents a charter, a sandbox and a reviewer, then go to sleep
 
-tim@lindus:~$ ls ~/past
+tim@jarvis:~$ ls ~/past
 nlp-research/  medical-language/  saliency-maps/  eye-tracking/
 
-tim@lindus:~$ uptime
+tim@jarvis:~$ uptime
 up since 2016, load average: too many side projects
 ```
 
