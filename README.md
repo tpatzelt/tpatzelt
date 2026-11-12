@@ -1,25 +1,21 @@
-# Tim Patzelt
+```console
+tim@lindus:~$ whoami
+tim patzelt · senior ai engineer · berlin
 
-**Senior AI Engineer · Berlin**
+tim@lindus:~$ cat ~/.plan
+- make models run where the data lives, not where the API is
+- measure first: evals > vibes > leaderboards
+- reach for the small model when it is enough
+- give agents a charter, a sandbox and a reviewer, then go to sleep
 
-I build ML and LLM systems and ship them as small, well-tested software that runs in
-production. My background is in NLP research, especially medical language.
+tim@lindus:~$ ls ~/past
+nlp-research/  medical-language/  saliency-maps/  eye-tracking/
 
-By day I'm a Senior AI Engineer at an IT consultancy, building AI applications for
-clients whose data must stay on their own infrastructure. That means:
+tim@lindus:~$ uptime
+up since 2016, load average: too many side projects
+```
 
-- **On-premise LLM applications**: structured extraction and description from documents
-  and images, served behind FastAPI backends and React frontends, with open-weight models
-  running locally rather than through external APIs.
-- **Model evaluation before rollout**: task-specific evaluation sets and side-by-side
-  comparisons of open-weight models, so model choices rest on measured accuracy rather
-  than leaderboards.
-- **Classic ML where it fits**: compact vision classifiers (e.g. EfficientNet on CPU)
-  combined with LLM steps, when a small model is cheaper, faster and easier to audit.
-
-In my own time I build agentic tooling and the infrastructure that keeps it reliable.
-
-[![Website](https://img.shields.io/badge/web-tpatzelt.github.io-0A0A0A?style=flat-square)](https://tpatzelt.github.io)
+[![Website](https://img.shields.io/badge/web-tim--boo.com-0A0A0A?style=flat-square)](https://tim-boo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tim%20Patzelt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-patzelt-3248a1168)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.14579-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2409.14579)
 
